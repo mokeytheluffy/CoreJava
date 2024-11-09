@@ -7,7 +7,8 @@ public class Lab023 {
         int age1 = 10;// local variable
         {
             int sachin = 10;
+            System.out.println(sachin);// outside {} we cannot print the data but in {} if query is written than it will run
+
         }
-        System.out.println(sachin);// outside {} we cannot print the data but in {} if query is written than it will run
     }
 }
