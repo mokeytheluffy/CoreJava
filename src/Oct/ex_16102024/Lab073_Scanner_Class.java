@@ -1,6 +1,6 @@
 package Oct.ex_16102024;
 
-import java.util.Scanner;
+import java.util.Scanner;// mandatory to use when use scanner class
 
 public class Lab073_Scanner_Class {
     public static void main(String[] args) {
