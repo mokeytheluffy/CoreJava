@@ -23,7 +23,10 @@ public class Lab081_Hackerrank_Q {
             System.out.println("C");
         } else if (score >= 60 & score<= 69) {
             System.out.println("D");
-        }else {
+        } else if (score <= 0 & score >= 100) {
+            System.out.println("Not possible");
+        }
+        else {
             System.out.println("F");
         }
     }
