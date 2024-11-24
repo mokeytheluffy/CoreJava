@@ -7,7 +7,6 @@ public class task02 {
         //Count Vowels and Consonants in a String
         //Hint for--> ch ='a'-->count++
         String a = "sjhidueoikvhewrwerwr";
-        a = a.toLowerCase();
         int count = 0;
         int b=0;
         for (int i = 0; i < a.length(); i++) {

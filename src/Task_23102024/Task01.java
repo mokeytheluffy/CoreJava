@@ -48,6 +48,10 @@ public class Task01 {
     }
 
     static int Div(int a, int b) {
-        return a / b;
-    }
+       //if(b != 0){ //Exceptional handling
+           return a / b;
+       }//else {
+          // System.out.println("Not allowed");
+       //}
+    //}
 }
