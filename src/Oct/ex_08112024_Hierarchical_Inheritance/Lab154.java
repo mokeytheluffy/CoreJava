@@ -1,4 +1,4 @@
-package Oct.ex_08122024_Hierarchical_Inheritance;
+package Oct.ex_08112024_Hierarchical_Inheritance;
 
 public class Lab154 {
     public static void main(String[] args) {
