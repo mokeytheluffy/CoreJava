@@ -15,8 +15,5 @@ public class Lab207_Queue {
         System.out.println(pq.peek());
         System.out.println(pq.poll()); // to remove in FIFO method/ will give first element
         System.out.println(pq);
-
-
-
     }
 }
